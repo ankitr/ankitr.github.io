@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif);
 @import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Linden+Hill);
 
 html {
     /* Subtle patterns FTW. */
@@ -41,6 +42,7 @@ h4 {
     text-align: center;
     color: #999;
     opacity: 80%;
+    font-family: "Linden Hill", Helvetica, Arial, sans-serif;
 }
 
 cite {
