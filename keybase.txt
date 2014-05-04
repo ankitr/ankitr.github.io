@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/ankit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ankit.io
+  * I am ankit (https://keybase.io/ankit) on keybase.
+  * I have a public key with fingerprint 80AD 2264 07B7 5804 2EC8  6BAA B401 6A41 1975 8EA4
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "80ad226407b758042ec86baab4016a4119758ea4",
+            "host": "keybase.io",
+            "key_id": "b4016a4119758ea4",
+            "uid": "6c4f08f4e6a337664dd76e509fb2d700",
+            "username": "ankit"
+        },
+        "service": {
+            "hostname": "ankit.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399218079,
+    "expire_in": 157680000,
+    "prev": "b0c0887e279876a8058ed85b68a3512cda4693cc250e838a3cac1c70e5daeaef",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMT4cf5NNTXW78cZTx94ncQQnBZ/pVopKT+lUsmqWik7FUylZealpxYV
+FGXmlShZKVkYJKYYGZmZGJgnmZtaGJgYpSZbmCUlJiaZGBiaJZoYGloChVMTTZR0
+lDLyi0E6gMYkJRan6mXmA8WAnPjMFKAoFvWlYAmzZJM0A4s0k1SzRGNjczMzk5QU
+c7NUUwPLtCSjFHMDA5DC4tSivMTcVKDqxLzszBKlWh0loFBZZnIqyMEge5GlITYX
+FOWX5Cfn5wBFM0pKCqxAmkoqC0CqylOT4qH645My81KAHgZqKEstKs7Mz1OyMgSq
+TC7JBBloaGxpaWRoYWBuqaOUWlGQWZQanwlSYWpuZmEABCBrUstA3jNINrCwME81
+Mre0MDdLtDAAejLFwjTJzCLR2NTQKDkl0cTM0jg52cjUINXCGCiYnJhsmGxukGqa
+kpiamJqmBPJRYV6+kpU50JmJ6UAjizPT8xJLSotSlWq5OhllWBgYmRjYWJlAccbA
+xSkAi8nWNPbfLM31n1kOzczdcjrinNCZ/vDfS689iqlOD1sQkLOv5uOj09nhn9//
+Putm65JRvygjRWRq8OX/FicCHzVfWbUo+s2Jnu4Zf6/fe3o6WlRLt2hOzIRH03c6
+Oj+bduLm/ccsJfteH2A+x7Qg11ta5eDlsgdV/a6rN75hfiXHP//iXs6JMqkH1bhv
+v0jSD0vd2np5C/N3o+x1+c49y4xXHNpln+QuVLzpm//U61/9vkSH33mfJJM7xf5G
+w/ODG7ekLH3Tvbjq3JrnvaXB95JmFD/ik+mb+1o6OXbb26NbMrd/b86wzIl94Z7y
+oED2ueAJjlrP1wmHswSKnb03dNS9PjrLtS9cnfnvspZfchcYxF+uuQMA
+=V2Ma
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ankit
+
+==================================================================
