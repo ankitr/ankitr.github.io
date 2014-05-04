@@ -49,6 +49,10 @@ cite {
     display: inline-block;
 }
 
+cite::before {
+    content: " — ";
+}
+
 .btc {
     width: 100%;
     text-align: center;
