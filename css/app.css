@@ -10,7 +10,16 @@ h3 {
 }
 
 a {
+    color: #09c;
     text-decoration: none;
+}
+
+a:visited {
+    color: #09c;
+}
+
+a:hover {
+    color: #6cf;
 }
 
 .q {
