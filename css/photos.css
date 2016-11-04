@@ -1,12 +1,17 @@
 img {
     display: block;
-    margin: 3rem auto;
-    max-height: 500px;
+    margin: 1.5rem auto 3rem auto;
+    max-height: 70vh;
+    max-width: 80vw;
+}
+
+h1 {
+    margin: 10px 0;
 }
 
 body {
-    width: 80%;
-    margin: auto;
+    display: table;
+    margin: 3rem auto;
     color: #333;
 }
 
