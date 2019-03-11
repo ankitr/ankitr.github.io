@@ -2,7 +2,7 @@
 //               also stop the ugly modulo stuff and do a good job
 
 const range = (start, end) => Array(end - start + 1).fill().map((_, idx) => start + idx);
-const makeSource = (imageNumber) => `ph/${imageNumber}.jpg`;
+const makeSource = (imageNumber) => `ph/${('00' + imageNumber).slice(-3)}.jpg`;
 
 const preloadImages = (array) => {
     if (!preloadImages.list) {
